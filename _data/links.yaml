@@ -60,13 +60,13 @@ github:
   icon: fab fa-github
   text: GitHub
   tooltip: GitHub
-  link: https://github.com/akautt
+  link: https://github.com/$LINK
 
 twitter:
   icon: fab fa-twitter
   text: Twitter
   tooltip: Twitter
-  link: https://twitter.com/andikautt
+  link: https://twitter.com/$LINK
 
 facebook:
   icon: fab fa-facebook
