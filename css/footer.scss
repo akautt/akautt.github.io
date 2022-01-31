@@ -1,0 +1,45 @@
+---
+---
+
+@import "palettes";
+@import "theme";
+@import "mixins";
+
+footer {
+  padding: 40px;
+  color: $white;
+  background: $gray-800;
+  text-align: center;
+  box-shadow: $shadow;
+
+  & * {
+    font-family: $sans;
+  }
+
+  .footer_row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 20px 0;
+    @include trim-v-margins;
+    line-height: $spacing + 0.3;
+
+    .link {
+      margin: 0;
+    }
+
+    &:hover .link {
+      opacity: 0.25;
+    }
+
+    .link:hover {
+      opacity: 1;
+    }
+  }
+
+  a {
+    color: currentColor;
+  }
+}

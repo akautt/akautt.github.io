@@ -1,0 +1,77 @@
+### basic settings
+
+# site properties and page defaults
+title: Andreas Kautt
+description: 
+logo: 
+header: images/background.png
+footer: images/background.png
+baseurl: ""
+
+# site social media and other links
+links:
+  email: andreas.kautt@gmail.com
+  google-scholar: Andreas F Kautt
+  github: akautt
+  twitter: AndiKautt
+  #instagram: YourLabHandle
+  #youtube: YourLabChannel
+
+### advanced settings
+
+# automatic citations
+auto-cite:
+  plugins:
+    #- name: orcid
+      #input:
+      #  - ../_data/orcid.yaml
+    - name: source
+      input:
+        - ../_data/sources.yaml
+  output: ../_data/citations.yaml
+
+# default front matter parameters for markdown files
+defaults:
+  # all markdown files
+  - scope:
+      path: ""
+    values:
+      layout: default
+  # markdown files in /_members
+  - scope:
+      type: "members"
+    values:
+      layout: member
+  # markdown files in /_posts
+  - scope:
+      type: "posts"
+    values:
+      layout: post
+
+# collections
+collections:
+  members:
+    output: false
+
+
+# sass settings
+sass:
+  sass_dir: css
+
+# syntax highlighting
+highlighter: rouge
+
+# plugins
+plugins:
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-sitemap
+  # - jekyll-github-metadata
+  # - jekyll-avatar
+  # - jekyll-gist
+  # - jekyll-mentions
+  # - jekyll-relative-links
+  # - jemoji
+
+# jekyll theme
+theme: null
