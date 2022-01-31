@@ -3,7 +3,7 @@
 # site properties and page defaults
 title: Andreas Kautt
 description: 
-logo: 
+logo: ""
 header: images/background.png
 footer: images/background.png
 baseurl: ""
@@ -11,9 +11,9 @@ baseurl: ""
 # site social media and other links
 links:
   email: andreas.kautt@gmail.com
-  google-scholar: Andreas F Kautt
-  github: akautt
-  twitter: AndiKautt
+  google-scholar: ""
+  github: AndiKautt
+  twitter: YourLabHandle
   #instagram: YourLabHandle
   #youtube: YourLabChannel
 
@@ -22,10 +22,7 @@ links:
 # automatic citations
 auto-cite:
   plugins:
-    #- name: orcid
-      #input:
-      #  - ../_data/orcid.yaml
-    - name: source
+    - name: sources
       input:
         - ../_data/sources.yaml
   output: ../_data/citations.yaml
@@ -51,8 +48,7 @@ defaults:
 # collections
 collections:
   members:
-    output: false
-
+    output: true
 
 # sass settings
 sass:

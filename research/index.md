@@ -13,8 +13,8 @@ Sympatric speciation describes the process whereby a single population splits in
 
 {%
   include gallery.html 
-  image1="images/tSNE.png"
-  image2="images/densitree.png"
+  image1="images/tSNE.jpg"
+  image2="images/densitree.jpg"
 %}
 
 ## Parallel phenotypic evolution – is evolution predictable?
@@ -23,8 +23,8 @@ The repeated evolution of similar traits, a process called parallel or convergen
 
 {%
   include gallery.html 
-  image1="images/bgPCA.png"
-  image2="images/XPEHH.png"
+  image1="images/bgPCA.jpg"
+  image2="images/XPEHH.jpg"
 %}
 
 ## Behavioral evolution – from natural genetic variation to behavioral divergence
@@ -33,9 +33,9 @@ Despite the fact that behavioral traits are often highly heritable, can vary tre
 
 {%
   include gallery.html 
-  image1="images/brain.png"
-  image2="images/BW.jpeg"
-  image3="images/CisTrans.png"
+  image1="images/brain.jpg"
+  image2="images/BW.jpg"
+  image3="images/CisTrans.jpg"
 %}
 
 ## Population genomics – leveraging the information stored in genomes
@@ -48,9 +48,9 @@ I want to make sure to mention here that this list is by no means exhaustive. Al
 
 {%
   include gallery.html 
-  image1="images/PopStruct.png"
-  image2="images/model.png"
-  image3="images/ManhattanSFS.png"
+  image1="images/PopStruct.jpg"
+  image2="images/model.jpg"
+  image3="images/ManhattanSFS.jpg"
 %}
 
 
@@ -60,9 +60,9 @@ I am primarily interested in the interplay of genotypes, phenotypes, and fitness
 
 {%
   include gallery.html 
-  image1="images/greentanks.png"
+  image1="images/greentanks.jpg"
   image2="images/waxmodel.jpg"
-  image3="images/geomorphPCA.png"
+  image3="images/geomorphPCA.jpg"
 %}
 
 
