@@ -30,6 +30,7 @@
   date: '2021-11-05'
   link: https://www.biorxiv.org/content/10.1101/2021.11.05.467454v1
   tags: preprint
+  image: ../images/papers/Wooldridge2022.png
 - id: https://doi.org/10.1111/mec.16066
   title: Genomic signatures of admixture and selection are shared among populations
     of Zaprionus indianus across the western hemisphere
