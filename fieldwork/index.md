@@ -18,8 +18,12 @@ nav:
   tooltip1="Midas cichlids in Nicaragua"
 
   image2="images/CI.jpg"
-  link2="fieldwork/peros"
+  link2="fieldwork/CIs"
   tooltip2="Channel Islands deer mice"
+  
+  image3="images/MT.jpg"
+  link3="fieldwork/MT"
+  tooltip3="Deer mice in Montana"
 
 %}
 
