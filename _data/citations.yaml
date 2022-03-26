@@ -1,5 +1,16 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: https://doi.org/10.1002/ece3.8751
+  title: "Benefits and limitations of a new genome-based PCR-RFLP genotyping assay (GB-RFLP): A SNP-based detection method for identification of species in extremely young adaptive radiations"
+  authors:
+  - Claudius F. Kratochwil
+  - Andreas F. Kautt
+  - Sina J. Rometsch
+  - Axel Meyer
+  publisher: Ecology and Evolution
+  date: '2022-03-23'
+  link: https://onlinelibrary.wiley.com/doi/10.1002/ece3.8751
+  image: ../images/papers/Kratochwil2022b.png
 - id: https://doi.org/10.1038/s41467-021-27685-8
   title: An intronic transposon insertion associates with a trans-species color polymorphism
     in Midas cichlid fishes
