@@ -1,5 +1,19 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: https://doi.org/10.1111/mec.16466
+  title: "Molecular parallelism in the evolution of a master sex-determining role for the anti-mullerian hormone receptor 2 gene (amhr2) in Midas cichlids"
+  authors:
+  - Camila Leitão Nacif
+  - Claudius F. Kratochwil
+  - Andreas F. Kautt
+  - Alexander Nater
+  - Gonzalo Machado-Schiaffino
+  - Axel Meyer
+  - Frederico Henning
+  publisher: Molecular Ecology
+  date: '2022-04-11'
+  link: https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.16466
+  image: ../images/papers/Nacif2022.png
 - id: https://doi.org/10.1002/ece3.8751
   title: "Benefits and limitations of a new genome-based PCR-RFLP genotyping assay (GB-RFLP): A SNP-based detection method for identification of species in extremely young adaptive radiations"
   authors:
