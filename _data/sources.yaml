@@ -1,3 +1,6 @@
+- id: https://doi.org/10.1073/pnas.2202862119
+  image: ../images/papers/Wooldridge2022.png
+
 - id: https://doi.org/10.1098/rspb.2022.0266
   image: ../images/papers/Torres2022.png
 
@@ -9,10 +12,6 @@
 
 - id: https://doi.org/10.1038/s41467-021-27685-8
   image: ../images/papers/Kratochwil2022.png
-
-- id: https://doi.org/10.1101/2021.11.05.467454
-  image: ../images/papers/Wooldridge2022.png
-  tags: preprint
 
 - id: https://doi.org/10.1111/mec.16066
   image: ../images/papers/Comeault2021.png

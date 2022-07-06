@@ -1,5 +1,20 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: https://doi.org/10.1073/pnas.2202862119
+  title: An enhancer of Agouti contributes to parallel evolution of cryptically
+    colored beach mice
+  authors:
+  - T. Brock Wooldridge
+  - Andreas F. Kautt
+  - Jean-Marc Lassance
+  - Sade McFadden
+  - Vera S. Domingues
+  - Ricardo Mallarino
+  - Hopi E. Hoekstra
+  publisher: Proceedings of the National Academy of Sciences USA
+  date: '2022-07-01'
+  link: https://www.pnas.org/doi/abs/10.1073/pnas.2202862119
+  image: ../images/papers/Wooldridge2022.png
 - id: https://doi.org/10.1098/rspb.2022.0266
   title: Genetic assimilation and the evolution of direction of genital asymmetry in anablepid fishes
   authors:
@@ -69,22 +84,6 @@
   date: '2022-01-13'
   link: https://www.nature.com/articles/s41467-021-27685-8
   image: ../images/papers/Kratochwil2022.png
-- id: https://doi.org/10.1101/2021.11.05.467454
-  title: A novel enhancer of Agouti contributes to parallel evolution of cryptically
-    colored beach mice
-  authors:
-  - T. Brock Wooldridge
-  - Andreas F. Kautt
-  - Jean-Marc Lassance
-  - Sade McFadden
-  - Vera S. Domingues
-  - Ricardo Mallarino
-  - Hopi E. Hoekstra
-  publisher: ''
-  date: '2021-11-05'
-  link: https://www.biorxiv.org/content/10.1101/2021.11.05.467454v1
-  tags: preprint
-  image: ../images/papers/Wooldridge2022.png
 - id: https://doi.org/10.1111/mec.16066
   title: Genomic signatures of admixture and selection are shared among populations
     of Zaprionus indianus across the western hemisphere
