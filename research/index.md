@@ -7,29 +7,9 @@ nav:
 
 # <i class="fas fa-dna"></i>Research
 
-## Sympatric speciation – how can species arise without geographic barriers?
-
-Sympatric speciation describes the process whereby a single population splits into two reproductively isolated species in the absence of geographic barriers. A bit more technically, sympatric speciation can be seen as the most extreme case of (primary) speciation-with-gene-flow. ​Because it is such an extreme case, true sympatric speciation is thought to be rare and occur only under very restricted conditions. In fact, whether sympatric speciation is possible at all has been the subject of one of the longest debates in evolutionary biology and at the heart of a rich body of theoretical and empirical research. Even today, only a few empirical case studies are generally accepted as credible examples of sympatric speciation. Among them are two small crater lake radiations of Midas cichlid fishes in Nicaragua. Midas cichlids represent a rare natural experiment of evolution, having independently colonized several crater lakes from the same great lake source populations and speciated in the absence of geographic barriers in some of them – but, interestingly, not in others. A main focus of my research has been to probe the overall evidence for sympatric speciation (Kautt et al. 2016), to investigate the ecological and demographic factors that may facilitate it (Kautt et al. 2018), and to study whether the genetic architecture of traits under divergent selection may affect whether sympatric speciation unfolds in this system (Kautt et al. 2020). 
-
-{%
-  include gallery.html 
-  image1="images/tSNE.jpg"
-  image2="images/densitree.jpg"
-%}
-
-## Parallel phenotypic evolution – is evolution predictable?
-
-The repeated evolution of similar traits, a process called parallel or convergent evolution, has fascinated evolutionary biologists for a long time. And for good reasons. First, parallel phenotypic evolution showcases the power of random mutations together with natural selection to arrive at the same or a similar phenotypic "solution" when exposed to a shared ecological challenge. Second, whenever we witness a case of parallel phenotypic evolution, we may ask whether the same or different genetic and molecular mechanisms contribute to it. In other words, are there redundancies or multiple "solutions" to a certain phenotypic optimum at the molecular level. On the flip side, when we don't see parallel phenotypic evolution although we'd expect it based on certain ecological conditions is it because of the stochastic nature of mutations and/or evolution in small populations or is it maybe because we have overlooked some important ecological factors? At the heart of all of this is the question whether evolution is predictable and, more explicitly, whether we can predict a certain evolutionary outcome given certain information. This is important for at least two reasons. If we can predict a process, it's probably fair to say that we have a decent understanding of it. Moreover, being able to predict evolution has vast applications ranging from our ability to fight diseases, combat the spread of invasive species, and counteract the detrimental effects of anthropogenic climate change. I have studied cases of parallel phenotypic evolution in Midas cichlids (Kautt et al. 2012, Elmer et al. 2014, Kautt et al. 2018) and African cichlids (Machado-Schiaffino et al. 2015).  
-
-{%
-  include gallery.html 
-  image1="images/bgPCA.jpg"
-  image2="images/XPEHH.jpg"
-%}
-
 ## Behavioral evolution – from natural genetic variation to behavioral divergence
 
-Despite the fact that behavioral traits are often highly heritable, can vary tremendously between populations and species, and are often essential for survival and reproduction, the mechanisms underlying behavioral evolution are only beginning to emerge. The dearth of examples connecting genes and behavior may be due to several hurdles; many behaviors are difficult to quantify robustly, are presumed to have a polygenic basis, and likely are affected by complex neural processes. However, a lot of progress has been made recently. First, machine vision approaches make it now possible to often perform (semi-)automated, objective, high-throughput behavioral phenotyping. Second, genes-to-behavior links can and have been shown to be straightforward for genetic changes that act through the processing of sensory information. Third, our understanding of neural cell types and circuits is advancing at a rapid pace. Nonetheless, additional studies on variation in behavior in the wild are needed for generalities to emerge. Systems with natural replicates of closely related populations and species – in which comparative analyses are not complicated by issues of high background divergence and orthology/paralogy – are likely to prove particularly powerful. North American deer mice of the genus _Peromyscus_ are such a system, comprising more than 50 species and many more subspecies that have (often repeatedly) evolved striking differences in ecologically-relevant behaviors. My current research  is focused to a large extent in uncovering how coding or regulatory genetic changes act through the nervous system to result in behavioral differences in these mice. Oh, did I mention just how adorable they are?
+Despite the fact that behavioral traits are often highly heritable, can vary tremendously between populations and species, and are often essential for survival and reproduction, the mechanisms underlying behavioral evolution are only beginning to emerge. The dearth of examples connecting genes and behavior may be due to several hurdles; many behaviors are difficult to quantify robustly, are presumed to have a polygenic basis, and likely are affected by complex neural processes. However, a lot of progress has been made recently. First, machine vision approaches make it now possible to often perform (semi-)automated, objective, high-throughput behavioral phenotyping. Second, genes-to-behavior links can and have been shown to be straightforward for genetic changes that act through the processing of sensory information. Third, our understanding of neural cell types and circuits is advancing at a rapid pace. Nonetheless, additional studies on variation in behavior in the wild are needed for generalities to emerge. Systems with natural replicates of closely related populations and species – in which comparative analyses are not complicated by issues of high background divergence and orthology/paralogy – are likely to prove particularly powerful. North American deer mice of the genus _Peromyscus_ are such a system, comprising more than 50 species and many more subspecies that have (often repeatedly) evolved striking differences in ecologically-relevant behaviors. My current research  is focused to a large extent in uncovering how coding or regulatory genetic changes act through the nervous system to result in behavioral differences in these mice.
 
 {%
   include gallery.html 
@@ -53,8 +33,27 @@ I want to make sure to mention here that this list is by no means exhaustive. Al
   image3="images/ManhattanSFS.jpg"
 %}
 
+## Parallel phenotypic evolution – is evolution predictable?
 
-## An integrative approach – molecular ecology, lab- and field experiments
+The repeated evolution of similar traits, a process called parallel or convergent evolution, has fascinated evolutionary biologists for a long time. And for good reasons. First, parallel phenotypic evolution showcases the power of random mutations together with natural selection to arrive at the same or a similar phenotypic "solution" when exposed to a shared ecological challenge. Second, whenever we witness a case of parallel phenotypic evolution, we may ask whether the same or different genetic and molecular mechanisms contribute to it. In other words, are there redundancies or multiple "solutions" to a certain phenotypic optimum at the molecular level. On the flip side, when we don't see parallel phenotypic evolution although we'd expect it based on certain ecological conditions is it because of the stochastic nature of mutations and/or evolution in small populations or is it maybe because we have overlooked some important ecological factors? At the heart of all of this is the question whether evolution is predictable and, more explicitly, whether we can predict a certain evolutionary outcome given certain information. This is important for at least two reasons. If we can predict a process, it's probably fair to say that we have a decent understanding of it. Moreover, being able to predict evolution has vast applications ranging from our ability to fight diseases, combat the spread of invasive species, and counteract the detrimental effects of anthropogenic climate change. I have studied cases of parallel phenotypic evolution in Midas cichlids (Kautt et al. 2012, Elmer et al. 2014, Kautt et al. 2018) and African cichlids (Machado-Schiaffino et al. 2015).  
+
+{%
+  include gallery.html 
+  image1="images/bgPCA.jpg"
+  image2="images/XPEHH.jpg"
+%}
+
+## Sympatric speciation – how can species arise without geographic barriers?
+
+Sympatric speciation describes the process whereby a single population splits into two reproductively isolated species in the absence of geographic barriers. A bit more technically, sympatric speciation can be seen as the most extreme case of (primary) speciation-with-gene-flow. ​Because it is such an extreme case, true sympatric speciation is thought to be rare and occur only under very restricted conditions. In fact, whether sympatric speciation is possible at all has been the subject of one of the longest debates in evolutionary biology and at the heart of a rich body of theoretical and empirical research. Even today, only a few empirical case studies are generally accepted as credible examples of sympatric speciation. Among them are two small crater lake radiations of Midas cichlid fishes in Nicaragua. Midas cichlids represent a rare natural experiment of evolution, having independently colonized several crater lakes from the same great lake source populations and speciated in the absence of geographic barriers in some of them – but, interestingly, not in others. A main focus of my research has been to probe the overall evidence for sympatric speciation (Kautt et al. 2016), to investigate the ecological and demographic factors that may facilitate it (Kautt et al. 2018), and to study whether the genetic architecture of traits under divergent selection may affect whether sympatric speciation unfolds in this system (Kautt et al. 2020). 
+
+{%
+  include gallery.html 
+  image1="images/tSNE.jpg"
+  image2="images/densitree.jpg"
+%}
+
+## Integrative approach – molecular ecology, lab- and field experiments
 
 I am primarily interested in the interplay of genotypes, phenotypes, and fitness (and how and when these dynamics lead to speciation). As mentioned above, to really understand these dynamics, complementary experiments in the lab and (if possible) in the field are invaluable and often necessary. Thus, apart from population genomic data analyses, my research includes geometric morphometrics (Kautt et al. 2018), stable isotope analyses (Kautt et al. 2016), mate choice experiments (Machado-Schiaffino et al. 2017, Kautt et al. 2020) and phenotypic plasticity experiments (Kautt et al. 2016) in the lab, as well as predation and performance experiments in the field (Torres-Dowdall et al. 2014).
 
@@ -64,5 +63,4 @@ I am primarily interested in the interplay of genotypes, phenotypes, and fitness
   image2="images/waxmodel.jpg"
   image3="images/geomorphPCA.jpg"
 %}
-
 

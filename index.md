@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Adaptation, Speciation, Genomics
+# Adaptation, Speciation, Genomics, Behavior
 
 I am an evolutionary biologist interested in the mechanisms and conditions driving (or constraining) the evolution of biological diversity. Like most evolutionary biologists I am fascinated not only by the "how", but also the "why" questions. For example, why are there ~350,000 species of beetles and only ~4,500 species of mammals? That might not be a fair comparison, but why is approximately every 30th species of vertebrate a cichlid fish? Beyond that, why do some lineages of cichlid fishes (e.g., Midas cichlids in Nicaragua) diversify so rapidly, while other closely related lineages of cichlids in the same area do not? Understanding why certain lineages diversify much faster than others, and how, are some of the ultimate questions to which I hope to contribute. 
 
