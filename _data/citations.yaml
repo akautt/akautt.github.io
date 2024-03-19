@@ -1,5 +1,22 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: https://doi.org/10.1111/mec.17270
+  title: Evolution of gene expression across brain regions in behaviourally divergent deer mice
+  authors:
+  - Andreas F. Kautt
+  - Jenny Chen
+  - Caitlin L. Lewarch
+  - Caroline Hu
+  - Kyle Turner
+  - Jean-Marc Lassance
+  - Felix Baier
+  - Nicole L. Bedford
+  - Andres Bendesky
+  - Hopi E. Hoekstra
+  publisher: Molecular Ecology
+  date: '2024-01-23'
+  link: https://onlinelibrary.wiley.com/doi/10.1111/mec.17270
+  image: ../images/papers/Kautt2024.png
 - id: https://doi.org/10.1038/s41467-022-33319-4
   title: Early stages of sympatric homoploid hybrid speciation in crater lake cichlid fishes
   authors:
